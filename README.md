@@ -16,5 +16,5 @@ The major Objective of the Project is to predict the existence of Exoplanets usi
 1) Confirmation of Exoplanet Existence confirmation that exoplanets are common in the universe.
 2) Diversity of Exoplanets based on the flux change we could say that exoplanets come in variety of sizes
 3) Astrobiology expanded the field of astrobiology, exploring the conditions required for life to exist beyond Earth
-4) Astronomical research and exploration to detect potential habitability of other worlds beyond our own solar system based upon 3 factors (size of the planet,Tempetaure on the planet
+4) Astronomical research and exploration to detect potential habitability of other worlds beyond our own solar system based upon 3 factors (size of the planet,Temperature on the planet
 and presence of water.)
