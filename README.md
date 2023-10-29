@@ -3,7 +3,8 @@
 But what are Exoplanets?
 Exoplanets are planets beyond our own solar system. Thousands have been discovered in the past two decades, mostly with NASA’s Kepler Space Telescope. These exoplanets come in a huge 
 variety of sizes and orbits. Some are gigantic planets hugging close to their parent stars; others are icy, some rocky. NASA and other agencies are looking for a special kind of 
-planet: one that’s the same size as Earth, orbiting a sun-like star in the habitable zone.
+planet: one that’s the same size as Earth, orbiting a sun-like star in the habitable zone.The dataset can be downloaded from the below link 
+https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
 
 ![Image](https://github.com/Rishavup/Exploring-Exoplanets-and-Pioneering-Interstellar-Discoveries/assets/148663016/d33a6235-28c0-4796-9507-5bc0ecbf6120)
 
